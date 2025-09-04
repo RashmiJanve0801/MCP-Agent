@@ -1,4 +1,5 @@
-AutoGen MCP Notion Integration
+## AutoGen MCP Notion Integration
+
 A Python application that integrates AutoGen AI agents with Notion using the Model Control Protocol (MCP). This allows AI agents to interact with your Notion workspace, search content, create pages, and perform various Notion operations.
 Features
 
